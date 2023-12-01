@@ -1,0 +1,312 @@
+{
+    "knowledge": {
+        "portuguese": {
+            "análise sintática": {
+                "accuracy": 0.78,
+                "familiarity": 0.87,
+                "forgettingFactor": 0.12
+            },
+            "morfologia": {
+                "accuracy": 0.65,
+                "familiarity": 0.92,
+                "forgettingFactor": 0.08
+            },
+            "crase": {
+                "accuracy": 0.85,
+                "familiarity": 0.75,
+                "forgettingFactor": 0.15
+            },
+            "figuras de linguagem": {
+                "accuracy": 0.72,
+                "familiarity": 0.8,
+                "forgettingFactor": 0.1
+            },
+            "concordância": {
+                "accuracy": 0.88,
+                "familiarity": 0.85,
+                "forgettingFactor": 0.1
+            },
+            "regência": {
+                "accuracy": 0.76,
+                "familiarity": 0.78,
+                "forgettingFactor": 0.12
+            },
+            "gêneros textuais": {
+                "accuracy": 0.9,
+                "familiarity": 0.88,
+                "forgettingFactor": 0.08
+            },
+            "literatura brasileira": {
+                "accuracy": 0.82,
+                "familiarity": 0.9,
+                "forgettingFactor": 0.1
+            },
+            "literatura portuguesa": {
+                "accuracy": 0.85,
+                "familiarity": 0.82,
+                "forgettingFactor": 0.15
+            },
+            "trovadorismo": {
+                "accuracy": 0.78,
+                "familiarity": 0.85,
+                "forgettingFactor": 0.12
+            },
+            "classicismo": {
+                "accuracy": 0.88,
+                "familiarity": 0.75,
+                "forgettingFactor": 0.1
+            },
+            "barroco": {
+                "accuracy": 0.76,
+                "familiarity": 0.78,
+                "forgettingFactor": 0.08
+            },
+            "romantismo": {
+                "accuracy": 0.9,
+                "familiarity": 0.88,
+                "forgettingFactor": 0.1
+            },
+            "realismo": {
+                "accuracy": 0.82,
+                "familiarity": 0.9,
+                "forgettingFactor": 0.15
+            },
+            "simbolismo": {
+                "accuracy": 0.85,
+                "familiarity": 0.82,
+                "forgettingFactor": 0.1
+            },
+            "modernismo": {
+                "accuracy": 0.78,
+                "familiarity": 0.85,
+                "forgettingFactor": 0.12
+            },
+            "concretismo": {
+                "accuracy": 0.88,
+                "familiarity": 0.75,
+                "forgettingFactor": 0.1
+            },
+            "pós-modernismo": {
+                "accuracy": 0.76,
+                "familiarity": 0.78,
+                "forgettingFactor": 0.08
+            },
+            "oralidade": {
+                "accuracy": 0.9,
+                "familiarity": 0.88,
+                "forgettingFactor": 0.1
+            },
+            "escrita formal": {
+                "accuracy": 0.82,
+                "familiarity": 0.9,
+                "forgettingFactor": 0.15
+            }
+        },
+        "physics": {
+            "kinematics": {
+                "accuracy": 0.9,
+                "familiarity": 0.8,
+                "forgettingFactor": 0.1
+            },
+            "thermodynamics": {
+                "accuracy": 0.75,
+                "familiarity": 0.88,
+                "forgettingFactor": 0.12
+            },
+            "electromagnetism": {
+                "accuracy": 0.88,
+                "familiarity": 0.85,
+                "forgettingFactor": 0.1
+            },
+            "quantum mechanics": {
+                "accuracy": 0.82,
+                "familiarity": 0.9,
+                "forgettingFactor": 0.15
+            },
+            "optics": {
+                "accuracy": 0.76,
+                "familiarity": 0.78,
+                "forgettingFactor": 0.12
+            },
+            "relativity": {
+                "accuracy": 0.9,
+                "familiarity": 0.88,
+                "forgettingFactor": 0.1
+            },
+            "nuclear physics": {
+                "accuracy": 0.82,
+                "familiarity": 0.9,
+                "forgettingFactor": 0.15
+            },
+            "fluid mechanics": {
+                "accuracy": 0.85,
+                "familiarity": 0.82,
+                "forgettingFactor": 0.1
+            },
+            "acoustics": {
+                "accuracy": 0.78,
+                "familiarity": 0.85,
+                "forgettingFactor": 0.12
+            },
+            "astrophysics": {
+                "accuracy": 0.88,
+                "familiarity": 0.75,
+                "forgettingFactor": 0.1
+            },
+            "particle physics": {
+                "accuracy": 0.76,
+                "familiarity": 0.78,
+                "forgettingFactor": 0.08
+            },
+            "thermodynamics laws": {
+                "accuracy": 0.9,
+                "familiarity": 0.88,
+                "forgettingFactor": 0.1
+            },
+            "wave mechanics": {
+                "accuracy": 0.82,
+                "familiarity": 0.9,
+                "forgettingFactor": 0.15
+            },
+            "optical instruments": {
+                "accuracy": 0.85,
+                "familiarity": 0.82,
+                "forgettingFactor": 0.1
+            },
+            "energy conservation": {
+                "accuracy": 0.78,
+                "familiarity": 0.85,
+                "forgettingFactor": 0.12
+            },
+            "electric circuits": {
+                "accuracy": 0.88,
+                "familiarity": 0.75,
+                "forgettingFactor": 0.1
+            },
+            "atomic physics": {
+                "accuracy": 0.76,
+                "familiarity": 0.78,
+                "forgettingFactor": 0.08
+            },
+            "magnetism": {
+                "accuracy": 0.9,
+                "familiarity": 0.88,
+                "forgettingFactor": 0.1
+            },
+            "photoelectric effect": {
+                "accuracy": 0.82,
+                "familiarity": 0.9,
+                "forgettingFactor": 0.15
+            },
+            "radioactivity": {
+                "accuracy": 0.85,
+                "familiarity": 0.82,
+                "forgettingFactor": 0.1
+            }
+        },
+        "math": {
+            "keywords": {
+                "algebra": {
+                    "accuracy": 0.88,
+                    "familiarity": 0.85,
+                    "forgettingFactor": 0.1
+                },
+                "calculus": {
+                    "accuracy": 0.92,
+                    "familiarity": 0.78,
+                    "forgettingFactor": 0.08
+                },
+                "geometry": {
+                    "accuracy": 0.85,
+                    "familiarity": 0.9,
+                    "forgettingFactor": 0.15
+                },
+                "statistics": {
+                    "accuracy": 0.78,
+                    "familiarity": 0.87,
+                    "forgettingFactor": 0.12
+                },
+                "trigonometry": {
+                    "accuracy": 0.9,
+                    "familiarity": 0.88,
+                    "forgettingFactor": 0.1
+                },
+                "linear algebra": {
+                    "accuracy": 0.82,
+                    "familiarity": 0.9,
+                    "forgettingFactor": 0.15
+                },
+                "differential equations": {
+                    "accuracy": 0.85,
+                    "familiarity": 0.82,
+                    "forgettingFactor": 0.1
+                },
+                "number theory": {
+                    "accuracy": 0.78,
+                    "familiarity": 0.85,
+                    "forgettingFactor": 0.12
+                },
+                "logic": {
+                    "accuracy": 0.88,
+                    "familiarity": 0.75,
+                    "forgettingFactor": 0.1
+                },
+                "discrete mathematics": {
+                    "accuracy": 0.76,
+                    "familiarity": 0.78,
+                    "forgettingFactor": 0.08
+                },
+                "probability": {
+                    "accuracy": 0.9,
+                    "familiarity": 0.88,
+                    "forgettingFactor": 0.1
+                },
+                "mathematical analysis": {
+                    "accuracy": 0.82,
+                    "familiarity": 0.9,
+                    "forgettingFactor": 0.15
+                },
+                "complex analysis": {
+                    "accuracy": 0.85,
+                    "familiarity": 0.82,
+                    "forgettingFactor": 0.1
+                },
+                "mathematical logic": {
+                    "accuracy": 0.78,
+                    "familiarity": 0.85,
+                    "forgettingFactor": 0.12
+                },
+                "game theory": {
+                    "accuracy": 0.88,
+                    "familiarity": 0.75,
+                    "forgettingFactor": 0.1
+                },
+                "graph theory": {
+                    "accuracy": 0.76,
+                    "familiarity": 0.78,
+                    "forgettingFactor": 0.08
+                },
+                "mathematical modeling": {
+                    "accuracy": 0.9,
+                    "familiarity": 0.88,
+                    "forgettingFactor": 0.1
+                },
+                "computational mathematics": {
+                    "accuracy": 0.82,
+                    "familiarity": 0.9,
+                    "forgettingFactor": 0.15
+                },
+                "applied mathematics": {
+                    "accuracy": 0.85,
+                    "familiarity": 0.82,
+                    "forgettingFactor": 0.1
+                },
+                "mathematical physics": {
+                    "accuracy": 0.78,
+                    "familiarity": 0.85,
+                    "forgettingFactor": 0.12
+                }
+            }
+        }
+    }
+}
